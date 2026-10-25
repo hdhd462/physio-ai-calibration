@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""Central path configuration. Edit these once; every script imports them."""
+DATA_DIR     = r"D:\Free Applicatin\F2\ecg_data"
+PROJ_DIR     = r"D:\Free Applicatin\F2"
+FIG_DIR      = r"D:\Free Applicatin\F2\table and figure"
+SUB_DIR      = r"D:\Free Applicatin\F2\table and figure\submission"
+PATCH_DIR    = r"D:\Free Applicatin\F2\patch_out"
+NHANES_DIR   = r"D:\Free Applicatin\F2\nhanes data"
+PROJ1_DIR    = r"D:\Free Applicatin\F2\Project1-v3"
+SHAOXING_DIR = r"D:\Free Applicatin\F2\shaoxing\a-large-scale-12-lead-electrocardiogram-database-for-arrhythmia-study-1.0.0"
+PTBXL_DIR    = r"D:\Free Applicatin\F2\PTB-XL\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3\ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3"

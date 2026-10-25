@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+scipy
+scikit-learn
+statsmodels
+matplotlib
+lifelines
+neurokit2
+wfdb
+shap
+python-docx
+Pillow
+PyMuPDF
+playwright

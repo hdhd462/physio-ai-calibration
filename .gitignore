@@ -1,0 +1,20 @@
+# Data / model artifacts (large, or public-download sources)
+*.npz
+*.pt
+*.csv
+*.log
+*.json
+*.pdf
+*.png
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.bak*
+~$*
+.DS_Store
